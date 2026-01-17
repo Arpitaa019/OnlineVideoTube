@@ -1,0 +1,6 @@
+@OnlineVideoTube.Server_HostAddress = http://localhost:5069
+
+GET {{OnlineVideoTube.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
