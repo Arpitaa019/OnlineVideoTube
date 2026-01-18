@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineVideoTube.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91f139697e0aee62c6b95db00c4006de0277ade1")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineVideoTube.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineVideoTube.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
